@@ -1,4 +1,54 @@
 # Netflix_Data_Visualisation-_using_matplotlib
+This project focuses on exploring and visualizing Netflix dataset insights using Pandas for data cleaning and Matplotlib for creating multiple types of charts. The goal is to understand trends, content distribution, and patterns within Netflix's content library through visual storytelling.
+
+
+---
+
+📌 Project Overview
+
+In this project, I performed:
+
+✅ Data cleaning and preprocessing using Pandas
+
+✅ Handling missing values, formatting columns (e.g. date_added, duration, etc.)
+
+✅ Creating a wide range of visualizations using Matplotlib:
+
+Bar charts
+
+Pie charts
+
+Line plots
+
+Histograms
+
+Scatter plots
+
+
+✅ Highlighting key trends such as:
+
+Content distribution by type (Movies vs TV Shows)
+
+Content added over the years
+
+Country-wise or genre-wise content availability
+
+Duration analysis of movies/shows
+
+
+
+
+---
+
+🧰 Tools & Libraries Used
+
+Pandas – for data handling, cleaning, and manipulation
+
+Matplotlib – for building visualizations
+
+
+
+---
 
 Analyzed and visualized 8,800+ titles from Netflix using the public dataset to identify key trends in content production and platform growth.
 
